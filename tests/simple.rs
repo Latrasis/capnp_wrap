@@ -1,5 +1,5 @@
 #[macro_use]
-extern crate capnp_util;
+extern crate capnp_wrap;
 #[macro_use]
 extern crate capnp;
 
